@@ -1,4 +1,4 @@
-# Multi-Cluster Kubernetes UX Research & Survey
+# Multi-Cluster Kubernetes UX Research
 
 ## 📌 Purpose
 
