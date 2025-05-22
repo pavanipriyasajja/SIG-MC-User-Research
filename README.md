@@ -1,4 +1,13 @@
-# 🌐 Multi-Cluster Kubernetes UX Research
+# Multi-Cluster Kubernetes UX Research
+
+## 📌 Purpose
+
+This repository is dedicated to documenting our **user research and survey efforts** aimed at understanding the challenges and needs of engineers working with **multi-cluster Kubernetes environments**.
+
+As organizations scale their cloud infrastructure, managing multiple Kubernetes clusters has become a common but complex practice. Through this research initiative, we aim to build more intuitive, effective, and centralized multi-cluster user experiences.
+
+---
+
 
 The Kubernetes Template Project is a template for starting new projects in the GitHub organizations owned by Kubernetes. All Kubernetes projects, at minimum, must have the following files:
 
