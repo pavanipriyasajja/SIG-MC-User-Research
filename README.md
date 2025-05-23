@@ -165,9 +165,10 @@ Identifying target participants and recruitment channels
 Preparing consent and privacy documentation
 
 ✅ Next Step: Begin participant outreach and schedule user interviews.
-
+Survey Guidelines doc : https://docs.google.com/document/d/1exnFgQBCGLHqu9dcIxv4rr9eggKSezOmpvIG-T0clyE/edit?usp=sharing 
 Here is the survey questions form : https://forms.gle/MPqnd77qkFkngqby7 
 
+[Created by:  Laura Lorenz, Nick Eberts, Pavanipriya Sajja]
 
 <hr>
 ## Community, discussion, contribution, and support
