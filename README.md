@@ -10,7 +10,7 @@ As organizations scale their cloud infrastructure, managing multiple Kubernetes 
 Here is the project proposal doc link : https://docs.google.com/document/d/1uCyHpI5zV1ME9qBtGjLkrIhpl3iXe-zQsn0SSbBiAE4/edit?usp=sharing 
 
 ---
-## Research Objectives
+## ✅ Research Objectives
 
 **1. Current State Analysis**
 - Map typical observability architectures in multi-cluster environments (e.g., hub-and-spoke, federated monitoring, per-cluster observability).
@@ -54,13 +54,13 @@ Learning curves of different tools
 - Evaluate ease of onboarding new team members to the observability stack.
 
 **9. Desired Improvements**
-Explore what an “ideal” multi-cluster observability experience looks like.
-Identify missing capabilities users wish existed.
-Prioritize features that would save time, reduce complexity, or improve incident response.
+- Explore what an “ideal” multi-cluster observability experience looks like.
+- Identify missing capabilities users wish existed.
+- Prioritize features that would save time, reduce complexity, or improve incident response.
 
 **10. Maturity & Adoption Journey**
-Assess where organizations are in their observability journey (e.g., early-stage, scaling, mature).
-Identify key events or triggers that led teams to evolve from single-cluster to multi-cluster observability.
+- Assess where organizations are in their observability journey (e.g., early-stage, scaling, mature).
+- Identify key events or triggers that led teams to evolve from single-cluster to multi-cluster observability.
 
 ## 🎯 Project Golas
 
@@ -87,7 +87,8 @@ Identify key events or triggers that led teams to evolve from single-cluster to 
 This research is aimed at professionals who operate, observe, and monitor Kubernetes clusters—especially those managing multi-cluster environments. We’re focused on roles and teams that are responsible for maintaining system health, performance, and reliability at scale.
 
 **👥 Primary Audience**
-<b>Site Reliability Engineers (SREs)</b>
+
+**Site Reliability Engineers (SREs)**
 Responsible for uptime, incident response, and observability pipelines
 Often manage monitoring tools, alerting rules, and SLIs/SLOs
 
@@ -108,6 +109,7 @@ Developers with Operational Responsibilities (DevOps-minded teams)
 Interact directly with dashboards, logs, alerts, and traces
 
 **🎯 Secondary Audience**
+
 **Engineering Managers / Tech Leads**
 Oversee observability strategy, performance budgets, and team workflows.
 
