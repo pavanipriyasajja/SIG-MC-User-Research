@@ -12,8 +12,23 @@ Here is the project proposal doc link : https://docs.google.com/document/d/1uCyH
 ---
 ## 🎯 Goals & Objectives
 
+Understand the current practices of engineers managing multiple clusters.
 
+Identify pain points in monitoring, observability, and workload visibility.
 
+Gather input on expectations for centralized UIs and multi-cluster interfaces.
+
+Inform the design and development of improved fleet management and syncer tools.
+
+Explore user requirements around multi-cluster fleet management, including how clusters are registered, synchronized, and updated.
+
+Understand how users track and interact with the cluster inventory, including expectations for metadata, health status, and grouping.
+
+Identify challenges in cross-cluster scheduling and workload placement, especially around performance, policy, and affinity rules.
+
+Investigate real-world experiences with multi-cluster pod networking, including service discovery, DNS, and network policies.
+
+--
 
 
 
