@@ -62,7 +62,7 @@ Learning curves of different tools
 - Assess where organizations are in their observability journey (e.g., early-stage, scaling, mature).
 - Identify key events or triggers that led teams to evolve from single-cluster to multi-cluster observability.
 
-<br>
+
 ## 🎯 Project Golas
 
 - Uncover User Challenges in Multi-Cluster Observability
@@ -84,7 +84,6 @@ Learning curves of different tools
  Position our team as a thoughtful contributor to the Kubernetes observability space by openly sharing research-backed insights.
 
 
-<br>
 ## 🎯 Target Audience
 This research is aimed at professionals who operate, observe, and monitor Kubernetes clusters—especially those managing multi-cluster environments. We’re focused on roles and teams that are responsible for maintaining system health, performance, and reliability at scale.
 
@@ -124,7 +123,7 @@ Oversee observability strategy, performance budgets, and team workflows.
  Building solutions that require observability integrations or are affected by monitoring infrastructure.
 
 
-<br>
+
 ## 🔍 Scope of Research
 The scope covers both what we’re studying and how we plan to collect insights.
 
@@ -154,7 +153,7 @@ Helps visualize real-world implementations and tooling patterns
 **Secondary Research**
 Review of community discussions, GitHub issues, forums, and public architecture blogs for recurring themes
 
-<br>
+
 
 ## 📌 Status of the Project
 **Current Phase: 🟡 Planning**
@@ -169,7 +168,7 @@ Preparing consent and privacy documentation
 
 Here is the survey questions form : https://forms.gle/MPqnd77qkFkngqby7 
 
-<br>
+
 <hr>
 ## Community, discussion, contribution, and support
 
