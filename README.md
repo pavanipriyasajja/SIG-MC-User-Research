@@ -62,6 +62,7 @@ Learning curves of different tools
 - Assess where organizations are in their observability journey (e.g., early-stage, scaling, mature).
 - Identify key events or triggers that led teams to evolve from single-cluster to multi-cluster observability.
 
+
 ## 🎯 Project Golas
 
 - Uncover User Challenges in Multi-Cluster Observability
@@ -83,8 +84,10 @@ Learning curves of different tools
  Position our team as a thoughtful contributor to the Kubernetes observability space by openly sharing research-backed insights.
 
 
+
 ## 🎯 Target Audience
 This research is aimed at professionals who operate, observe, and monitor Kubernetes clusters—especially those managing multi-cluster environments. We’re focused on roles and teams that are responsible for maintaining system health, performance, and reliability at scale.
+
 
 **👥 Primary Audience**
 
@@ -108,6 +111,7 @@ Developers with Operational Responsibilities (DevOps-minded teams)
 **Own microservices and monitor service health**
 Interact directly with dashboards, logs, alerts, and traces
 
+
 **🎯 Secondary Audience**
 
 **Engineering Managers / Tech Leads**
@@ -118,6 +122,8 @@ Oversee observability strategy, performance budgets, and team workflows.
 
 **Tooling/Product Teams (Internal or External)**
  Building solutions that require observability integrations or are affected by monitoring infrastructure.
+
+
 
 ## 🔍 Scope of Research
 The scope covers both what we’re studying and how we plan to collect insights.
@@ -149,6 +155,7 @@ Helps visualize real-world implementations and tooling patterns
 Review of community discussions, GitHub issues, forums, and public architecture blogs for recurring themes
 
 
+
 ## 📌 Status of the Project
 **Current Phase: 🟡 Planning**
 We are currently in the planning phase of the research. This includes:
@@ -162,6 +169,8 @@ Preparing consent and privacy documentation
 
 Here is the survey questions form : https://forms.gle/MPqnd77qkFkngqby7 
 
+
+<hr>
 ## Community, discussion, contribution, and support
 
 Learn how to engage with the Kubernetes community on the [community page](http://kubernetes.io/community/).
