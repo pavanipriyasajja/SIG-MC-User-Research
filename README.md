@@ -4,10 +4,21 @@
 
 This repository is dedicated to documenting our **user research and survey efforts** aimed at understanding the challenges and needs of engineers working with **multi-cluster Kubernetes environments**.
 
-As organizations scale their cloud infrastructure, managing multiple Kubernetes clusters has become a common but complex practice. Through this research initiative, we aim to build more intuitive, effective, and centralized multi-cluster user experiences.
+As organizations scale their cloud infrastructure, managing multiple Kubernetes clusters has become a common but complex practice. Through this research initiative, we aim to build more intuitive, effective, and centralized multi-cluster user experiences. This research is not tied to a specific implementation or tool. Instead, it is focused on understanding the diverse realities of engineers, architects, and platform teams working across multi-cluster setups. 
+Here is the project proposal doc link : https://docs.google.com/document/d/1uCyHpI5zV1ME9qBtGjLkrIhpl3iXe-zQsn0SSbBiAE4/edit?usp=sharing 
 
 ---
 ## 🎯 Goals & Objectives
+
+
+
+
+
+
+
+
+
+
 
 The Kubernetes Template Project is a template for starting new projects in the GitHub organizations owned by Kubernetes. All Kubernetes projects, at minimum, must have the following files:
 
