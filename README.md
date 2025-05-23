@@ -63,7 +63,7 @@ Learning curves of different tools
 - Identify key events or triggers that led teams to evolve from single-cluster to multi-cluster observability.
 
 
-## 🎯 Project Golas
+## 🎯 Project Goals
 
 - Uncover User Challenges in Multi-Cluster Observability
  Identify real-world pain points, inefficiencies, and unmet needs in how users monitor and manage Kubernetes across multiple clusters.
