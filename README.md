@@ -12,53 +12,53 @@ Here is the project proposal doc link : https://docs.google.com/document/d/1uCyH
 ---
 ## Research Objectives
 
-1. Current State Analysis
+**1. Current State Analysis**
 - Map typical observability architectures in multi-cluster environments (e.g., hub-and-spoke, federated monitoring, per-cluster observability).
 - Understand how monitoring is bootstrapped and maintained over time (manual vs. automated, GitOps, Helm, etc.).
 
-2. Tooling Landscape
+**2. Tooling Landscape**
 - Identify the full stack of tools in use (metrics, logs, traces, dashboards, alerting, storage, etc.).
 - Assess how these tools are hosted: self-managed vs. managed services (e.g., Grafana Cloud, Datadog, New Relic).
 - Explore the level of integration or fragmentation across these tools.
 
-3. Operational Workflows
+**3. Operational Workflows**
 - Understand how users:
 Detect issues (alerting, dashboards, automated checks)
 Investigate incidents (root cause analysis, logs/traces review)
 Collaborate during outages or investigations (Slack, Notebooks, etc.)
 - Map hand-offs between DevOps, SREs, developers, and platform teams.
 
-4. Cluster Federation & Data Aggregation
+**4. Cluster Federation & Data Aggregation**
 - Investigate how users centralize data from multiple clusters (e.g., Thanos, Cortex, custom pipelines).
 - Understand challenges related to cross-cluster query performance and data consistency.
 
-5. Performance and Reliability Concerns
+**5. Performance and Reliability Concerns**
 - Document issues around high cardinality, metric retention, scalability, and cost.
 - Identify common bottlenecks or failures in observability pipelines.
 
 
-6. Security & Compliance
+**6. Security & Compliance**
 - Understand how users manage access control (RBAC, multitenancy) in observability tooling.
 - Explore compliance requirements for observability data (e.g., log redaction, retention policies).
 
 
-7. Customization & Extensibility
+**7. Customization & Extensibility**
 - Learn how teams customize observability dashboards, alerting rules, or pipelines to suit their needs.
 - Identify needs around automation or templating (e.g., Jsonnet, Grafonnet, Kustomize).
 
-8. User Experience & Frustration Points
+**8. User Experience & Frustration Points**
 - Gather qualitative feedback on UX challenges:
 Dashboard usability
 Alert fatigue
 Learning curves of different tools
 - Evaluate ease of onboarding new team members to the observability stack.
 
-9. Desired Improvements
+**9. Desired Improvements**
 Explore what an “ideal” multi-cluster observability experience looks like.
 Identify missing capabilities users wish existed.
 Prioritize features that would save time, reduce complexity, or improve incident response.
 
-10. Maturity & Adoption Journey
+**10. Maturity & Adoption Journey**
 Assess where organizations are in their observability journey (e.g., early-stage, scaling, mature).
 Identify key events or triggers that led teams to evolve from single-cluster to multi-cluster observability.
 
@@ -83,39 +83,38 @@ Identify key events or triggers that led teams to evolve from single-cluster to 
  Position our team as a thoughtful contributor to the Kubernetes observability space by openly sharing research-backed insights.
 
 
-🎯 Target Audience
+## 🎯 Target Audience
 This research is aimed at professionals who operate, observe, and monitor Kubernetes clusters—especially those managing multi-cluster environments. We’re focused on roles and teams that are responsible for maintaining system health, performance, and reliability at scale.
 
-👥 Primary Audience
+**👥 Primary Audience**
 <b>Site Reliability Engineers (SREs)</b>
 Responsible for uptime, incident response, and observability pipelines
 Often manage monitoring tools, alerting rules, and SLIs/SLOs
 
-Platform Engineers
+**Platform Engineers**
 Build and maintain internal Kubernetes platforms and developer infrastructure
 Standardize observability tooling across multiple clusters and teams
 
-DevOps Engineers / Infrastructure Engineers
+**DevOps Engineers / Infrastructure Engineers**
 Automate infrastructure, CI/CD, and observability stacks
 Handle deployment and maintenance of tools like Prometheus, Grafana, etc.
 
-
-Cloud Architects / Kubernetes Administrators
+**Cloud Architects / Kubernetes Administrators**
 Design and implement multi-cluster Kubernetes strategies
 Evaluate trade-offs in observability tools and cross-cluster data aggregation
 Developers with Operational Responsibilities (DevOps-minded teams)
 
-Own microservices and monitor service health
+**Own microservices and monitor service health**
 Interact directly with dashboards, logs, alerts, and traces
 
-🎯 Secondary Audience
-Engineering Managers / Tech Leads
- Oversee observability strategy, performance budgets, and team workflows.
+**🎯 Secondary Audience**
+**Engineering Managers / Tech Leads**
+Oversee observability strategy, performance budgets, and team workflows.
 
-Security & Compliance Engineers
+**Security & Compliance Engineers**
  Interested in access control, audit logs, data retention, and multitenancy within observability systems.
 
-Tooling/Product Teams (Internal or External)
+**Tooling/Product Teams (Internal or External)**
  Building solutions that require observability integrations or are affected by monitoring infrastructure.
 
 ## 🔍 Scope of Research
@@ -124,32 +123,32 @@ The scope covers both what we’re studying and how we plan to collect insights.
 ✅ Research Methods (How We’ll Conduct the Study)
 We will use a combination of qualitative and quantitative methods:
 
-User Interviews
+**User Interviews**
 1:1 conversations (30–45 mins)
 Deep-dive into workflows, tools, pain points, and decision-making
 Conducted remotely over Zoom or Google Meet
 
 
-Surveys
+**Surveys**
 Short-form questionnaires to gather broad insights
 Focused on tool usage, experience level, and common challenges
 Helps validate and scale findings from interviews
 
 
-Usability Testing (if applicable in later stages)
+**Usability Testing (if applicable in later stages)**
 Test interaction with current or prototype observability setups
 Identify friction points in dashboards, alerting workflows, and navigation
 
-Architecture Walkthroughs (Optional)
+**Architecture Walkthroughs (Optional)**
 Participants share anonymized diagrams or explain their setup
 Helps visualize real-world implementations and tooling patterns
 
-Secondary Research
+**Secondary Research**
 Review of community discussions, GitHub issues, forums, and public architecture blogs for recurring themes
 
 
 ## 📌 Status of the Project
-Current Phase: 🟡 Planning
+**Current Phase: 🟡 Planning**
 We are currently in the planning phase of the research. This includes:
 
 Finalizing research goals and objectives
