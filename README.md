@@ -156,7 +156,7 @@ Review of community discussions, GitHub issues, forums, and public architecture 
 
 
 ## 📌 Status of the Project
-**Current Phase: 🟡 Planning**
+**Current Phase: 🟡 Results**
 We are currently in the planning phase of the research. This includes:
 
 Finalizing research goals and objectives
@@ -169,6 +169,9 @@ Preparing consent and privacy documentation
 Survey Guidelines doc : https://docs.google.com/document/d/1exnFgQBCGLHqu9dcIxv4rr9eggKSezOmpvIG-T0clyE/edit?usp=sharing 
 
 Here is the survey questions form : https://forms.gle/kk8UHKSbWDkdeW3x9
+
+Results are presented in the KubeCon NA - Atlanta (2025)
+Here is the resluts video: https://youtu.be/u_WfTU3pL1o?si=147U_k8effSdIw-P
 
 [Created by:  Laura Lorenz, Nick Eberts, Pavanipriya Sajja]
 
