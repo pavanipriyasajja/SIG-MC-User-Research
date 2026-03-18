@@ -35,7 +35,7 @@ Are you interested in participating in user research tasks:
 Participation is voluntary and all responses will be anonymized. 
 Interested in participating, Please fill out this form. We will get in touch with you soon with followup tasks. 
 
-##Project team:
+<b>Project team</b>
 
 <a href="https://github.com/lauralorenz">Laura Lorenz</a> , <a href="https://github.com/pavanipriyasajja">Pavanipriya Sajja</a>
 ,Nick Eberts
@@ -50,8 +50,6 @@ You can reach the maintainers of this project at:
 
 - [Slack](https://slack.k8s.io/)
 - [Mailing List](https://groups.google.com/a/kubernetes.io/g/dev)
-
-
 
 ### Code of conduct
 
