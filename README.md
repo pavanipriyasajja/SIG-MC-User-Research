@@ -12,7 +12,8 @@ Here is the project proposal doc link : https://docs.google.com/document/d/1uCyH
 ---
 
 # Project team:
-Laura Lorenz: https://github.com/lauralorenz
+Laura Lorenz: https://github.com/lauralorenz, @lauralorenz
+
 
 Pavanipriya Sajja: https://github.com/pavanipriyasajja
 
