@@ -31,8 +31,10 @@ Currently we are working on transforming survey results into Hybrid engineer per
 We are conducting in-depth User interviews to gather more information about multi cluster challenges and expectations from the engineers to understand tools, workflows, and daily practices<a href="https://multicluster.sigs.k8s.io/">Learn more from our website</a> 
 
 Are you interested in participating in user research tasks:
-45–60 minute interview, optional screen sharing.
-Participation is voluntary and all responses will be anonymized. 
+
+<li>45–60 minute interview, optional screen sharing.</li>
+<li>Participation is voluntary and all responses will be anonymized.</li>
+
 Interested in participating, Please fill out this form. We will get in touch with you soon with followup tasks. 
 
 <b>Project team</b>
