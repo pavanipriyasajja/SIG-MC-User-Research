@@ -185,6 +185,14 @@ You can reach the maintainers of this project at:
 - [Slack](https://slack.k8s.io/)
 - [Mailing List](https://groups.google.com/a/kubernetes.io/g/dev)
 
+
+# Project team:
+Laura Lorenz: https://github.com/lauralorenz 
+Pavanipriya Sajja: https://github.com/pavanipriyasajja
+
+
+
+
 ### Code of conduct
 
 Participation in the Kubernetes community is governed by the [Kubernetes Code of Conduct](code-of-conduct.md).
