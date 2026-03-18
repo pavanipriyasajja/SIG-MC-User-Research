@@ -10,6 +10,15 @@ As organizations scale their cloud infrastructure, managing multiple Kubernetes 
 Here is the project proposal doc link : https://docs.google.com/document/d/1uCyHpI5zV1ME9qBtGjLkrIhpl3iXe-zQsn0SSbBiAE4/edit?usp=sharing 
 
 ---
+
+# Project team:
+Laura Lorenz: https://github.com/lauralorenz
+
+Pavanipriya Sajja: https://github.com/pavanipriyasajja
+
+
+
+
 ## ✅ Research Objectives
 
 **1. Current State Analysis**
@@ -184,12 +193,6 @@ You can reach the maintainers of this project at:
 
 - [Slack](https://slack.k8s.io/)
 - [Mailing List](https://groups.google.com/a/kubernetes.io/g/dev)
-
-
-# Project team:
-Laura Lorenz: https://github.com/lauralorenz 
-Pavanipriya Sajja: https://github.com/pavanipriyasajja
-
 
 
 
