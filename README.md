@@ -11,11 +11,12 @@ Here is the project proposal doc link : https://docs.google.com/document/d/1uCyH
 
 ---
 
-# Project team:
+### Project team:
 <a href="https://github.com/lauralorenz">Laura Lorenz</a> 
  
 <a href="https://github.com/pavanipriyasajja">Pavanipriya Sajja</a>
 
+---
 
 
 
