@@ -242,7 +242,7 @@ We distributed our surveys through SIG-Multicluster, <b>Kubernetes.io</b> (Name=
 
 <b>Time line</b>
 
-Our survey remained open for participants to submit responses over an 8-week period, giving most people enough time to participate.
+Our survey remained open for participants to submit responses over an <b>8-week period</b>, giving most people enough time to participate.
 
 <b>Resources</b>
 
